@@ -27,3 +27,4 @@ As you move through the modules, you can run module-specific tests with the scri
 ## Previewing Your Work
 
 In order to see your changes in a browser, you can run `npm start` from the command line. This will open a browser and you should see your landing page.
+# Average-Ratings-Calculator
